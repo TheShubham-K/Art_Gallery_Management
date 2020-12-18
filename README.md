@@ -21,4 +21,4 @@ I've also included the SQL file so that all you've to do is import this in datab
     >Preferences of group of art\
  *Support for related queries*\
  
-If you've any query regarding this project then just mail me at iaashu98@gmail.com. I'm available there.
+If you've any query regarding this project then just mail me at subham.kumar032@gmail.com. I'm available there.
